@@ -1,0 +1,6 @@
+{
+  "name": "Muniz Metalúrgica - Gestão de Férias",
+  "description": "Sistema integrado de solicitação, planejamento e aprovação de férias dos colaboradores da Muniz Metalúrgica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
